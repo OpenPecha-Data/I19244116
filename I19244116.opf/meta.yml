@@ -1,0 +1,26 @@
+id: I19244116
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:15:39.576810+00:00
+last_modified: 2022-12-14 18:15:39.576814+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-043-015
+  eft-text-version: 1.0.6 2020
+  title: Toh_78-The_Questions_of_Gunaratnasankusumita-v2
+bases:
+  D4EA:
+    source_metadata: null
+    order: 1
+    base_file: D4EA.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
